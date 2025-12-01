@@ -1,0 +1,9 @@
+numpy
+pandas
+fastapi
+uvicorn
+pydantic
+google-generativeai
+gradio>=4.0.0
+sqlite3
+pillow
